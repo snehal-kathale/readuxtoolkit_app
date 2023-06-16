@@ -1,7 +1,7 @@
 import "./App.css";
 
 import Counter from "./feature/counter/counter";
-import Value from "./feature/counter/value/value";
+import Value from "./feature/value/value";
 
 function App() {
   return (
